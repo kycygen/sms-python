@@ -1,4 +1,5 @@
-# To send the SMS, first set the messaging to the text mode using “AT+CMGF=1″ command. Then, select a number to send the SMS using the AT+CMGS="(Your number)" command
+# To send the SMS, first set the messaging to the text mode using “AT+CMGF=1″ command. Then, select a number to send the SMS using the AT+CMGS="(Your number)" command.
+
 import serial
 import os, time
 import RPi.GPIO as GPIO
