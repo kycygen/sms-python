@@ -1,3 +1,5 @@
+# The modem first needs to be configured for SMS messaging from SIM900. Begin by checking if the modem is working by sending it the “AT” command.
+
 import serial
 import os, time
 import RPi.GPIO as GPIO
