@@ -1,2 +1,2 @@
 # sms-python
-Calls & SMS using a SIM900A GSM modem
+Simple Calls & SMS using a SIM900A GSM modem
