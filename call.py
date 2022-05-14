@@ -1,4 +1,4 @@
-#The Python script that’s shown below successfully makes a call on a number and ends the call after 30 seconds.
+# To enable serial communication with the modem on RPi, you must import the serial, RPi.GPIO, os, and time libraries.
 
 import serial
 import os, time
